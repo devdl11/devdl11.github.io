@@ -13,7 +13,7 @@ order: 4
 &emsp;&emsp; Hi there !
 
 My name is David Luca, better known under the nickname of _dl11_ or _devdl11_ (in case my favorite one was already taken ^^'). I love everything related to IT, computers, robots, AI, learning new things every day, chatting with passionate people and contributing to various exciting projects with a great community (❤️ Upsilon & Omega ❤️ ). In this blog (my first xb), you will find various articles covering my projects and nonsense 🚎 related to IT (programs, hardware, dev, etc.)
-> Disclaimer : All articles are for informational and educational purposes and I cannot be held responsible for the consequences of your actions.
+> Disclaimer : All articles are for informational and educational purposes only and I cannot be held responsible for the consequences of your actions.
 {: .prompt-warning }
 
 <br>
