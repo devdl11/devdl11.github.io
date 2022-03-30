@@ -15,3 +15,7 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+.sass-cache
+.jekyll-metadata
+.DS_Store
